@@ -28,6 +28,7 @@ public class CreateNewUserTest extends UserBaseTest {
         //       .lastName("LastName").phone("8-920-920-23-23")
         //       .userStatus(10L).id(10L)
         //       .build();user.setEmail("expectedEmail");
+
     user.setFirstName("FirstName");
     user.setLastName("LastName");
     user.setPhone("8-920-920-23-23");
